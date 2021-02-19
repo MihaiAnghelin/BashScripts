@@ -7,3 +7,5 @@ alias grep='grep --color=auto'
 alias please='sudo'
 
 alias pls='sudo'
+
+alias genpass='bash /home/mihui/Dev/BashScripts/generatePassword.sh'
