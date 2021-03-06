@@ -9,3 +9,5 @@ alias please='sudo'
 alias pls='sudo'
 
 alias genpass='bash /home/mihui/Dev/BashScripts/generatePassword.sh'
+
+alias arduinocon='sudo chmod a+rw /dev/ttyACM0'
